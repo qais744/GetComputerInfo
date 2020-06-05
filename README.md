@@ -7,6 +7,8 @@ C# program for getting information about your Windows PC using WMI/netstat/regis
 
 -MAC Address
 
+-CPU Architecture
+
 -User Accounts Names (using WMI)
 
 -PC Specs (using WMI)
