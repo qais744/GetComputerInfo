@@ -15,7 +15,7 @@ C# program for getting information about your Windows PC using WMI/netstat/regis
 
 -Resources Usage (using WMI)
 
--Running Services and Open Ports (uisng netstat) - from this with some modifications (https://gist.github.com/cheynewallace/5971686)
+-Running Services and Open Ports (using netstat) - from this with some modifications (https://gist.github.com/cheynewallace/5971686)
 
 The file that has the results will be created in "bin/Debug/Results/"
 
