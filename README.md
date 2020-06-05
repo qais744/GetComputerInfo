@@ -1,4 +1,4 @@
-# GetComputerInfo
+# Retrieve Windows PC Information
 C# program for getting information about your Windows PC using WMI/netstat/registry, running this program will retireve the following information and write them to a file:
 
 -Windows Version and Release
